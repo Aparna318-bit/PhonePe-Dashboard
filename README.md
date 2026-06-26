@@ -24,3 +24,5 @@ Created for learning and portfolio purposes.
 📅 Weekday vs Weekend Usage Comparison
 🎛 Interactive Filters (Month & Payment Status)
 💡 Business Insights for better decision-making
+6. Screenshots/Demos
+Show what the dashboard looks like; (https://github.com/Aparna318-bit/PhonePe-Dashboard/blob/main/Screenshot%202026-06-26%20183436.png).
